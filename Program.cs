@@ -10,24 +10,6 @@ namespace ConsoleApp20
     {
         static void Main(string[] args)
         {
-
-            //int[] mas = new int[7];
-            //Random rnd = new Random();
-
-            //for (int i = 0; i < mas.Length; i++)
-            //{
-            //    mas[i] = rnd.Next(0, 5);
-            //    if (mas[i] > 3)
-            //    {
-            //        Console.WriteLine("yes");
-            //    }
-            //    else
-            //    {
-            //        Console.WriteLine("no");
-            //    }
-            //}
-
-
             //Задача 1. Определить, имеется ли в массиве случайных чисел элемент, значение которого равно значению первого элемента одномерного массива.
             //Если такой элемент имеется, вывести на экран его порядковый номер. Массив состоит из шести элементов.
 
